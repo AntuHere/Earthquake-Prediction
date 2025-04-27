@@ -18,7 +18,9 @@ Key Features:
 - **src**: Python scripts for data preprocessing, feature engineering, model training, and prediction.
 - **visualizations**: Scripts for generating interactive maps and plots.
 - **requirements.txt**: List of dependencies required to run the project.
-![image](https://github.com/user-attachments/assets/01db0e03-23b1-4322-9241-6b86b068bb0f)
+
+![image](https://github.com/user-attachments/assets/f0e30cfa-3f4c-478b-acd7-a12df84a3d56)
+
 
 ![image](https://github.com/user-attachments/assets/a432d78f-b03d-4d5b-8689-d387a221aae7)
 
